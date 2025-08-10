@@ -7,6 +7,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
+    color: white;
 }
 h1 {
     color: #2c3e50;
@@ -48,6 +49,7 @@ tr:nth-child(6){
 }
     tr:nth-child(7){
     background: yellow;
+    color: black;
 }
 tr:nth-child(8){
     background: blue;
